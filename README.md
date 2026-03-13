@@ -294,7 +294,8 @@ prompt-intent-classifier/
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── LICENSE
 ```
 
 ---
