@@ -1,0 +1,30 @@
+# ======================
+# DATASETS (PRIVATE)
+# ======================
+*.json
+*.jsonl
+
+raw data logs/
+
+# ======================
+# LABELING SCRIPTS
+# ======================
+Gemini_label_prompt_dataset.py
+Groq_label_prompt_dataset.py
+
+# ======================
+# NOTEBOOK CACHE
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# PYTHON CACHE
+# ======================
+__pycache__/
+*.pyc
+
+# ======================
+# OS FILES
+# ======================
+.DS_Store
+Thumbs.db
